@@ -3,15 +3,15 @@ C module 3
 
 EX NO:3-c) Read and print the elements of first row of an array.
 
-Date:19/10/2025
+Date:25/3/2026
 
 
 
-Name: VASANTH S
+Name: Ritesh DP
 
 
 
-Ref no: 25017538
+Ref no: 25015366
 
 
 AIM:
